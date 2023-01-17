@@ -5,3 +5,7 @@
     width: 1100px;
     margin: 0 auto;
 }
+.text {
+    text-align: center;
+    border: 1px solid red;
+}
