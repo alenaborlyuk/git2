@@ -7,5 +7,9 @@
 }
 .text {
     text-align: center;
-    border: 1px solid red;
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+}
+a {
+    color: fuchsia;
 }
